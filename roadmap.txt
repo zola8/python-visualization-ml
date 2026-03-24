@@ -1,0 +1,53 @@
+https://www.youtube.com/watch?v=qNxrPri1V0I
+
+- pandas
+    - summarize, group, handling missing data
+    - combine datasets
+    - create dataframes
+    - tidy, reshape data
+    - subset observation, subset variables
+    - method chaining
+    - joins
+
+- explore data
+    - missing data
+    - data distribution
+    - charts
+
+- tutorial
+    - select data source (board games, finance, sport, ...)
+    - jupyter
+    - import into pandas df
+    - clean up the data, make data uniform, missing data
+    - plot charts
+    - look correlations
+    - turn your result into slideshow (jupyter slideshow)
+    - tell a story that can be presented
+
+- basic statistics and probability
+    - plot charts of median, mean, ...
+
+- linear algebra
+    - matrix, transpose
+
+- calculus, derivates
+    (working knowledge, not phd!, learn by doing)
+    - focus on tools and rules
+
+
+- ML
+    - linear regression, logistic regression, decision tree, random forest, gradient boosting
+
+- scikit tutorial
+    !!!
+    - kaggle ds
+
+- your first ML project
+
+-----------------------------------------------------------------------
+1. pandas
+    https://www.geeksforgeeks.org/pandas/pandas-tutorial/
+    https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+    https://tutswiki.com/pandas-cookbook/chapter1/
+
+
