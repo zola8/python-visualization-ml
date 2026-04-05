@@ -6,14 +6,22 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dotenv>=0.9.9",
+    "fuzzywuzzy>=0.18.0",
     "imageio>=2.37.2",
     "jupyterlab>=4.5.3",
     "kagglehub>=1.0.0",
     "lxml>=6.0.2",
     "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "nltk>=3.9.4",
     "numpy>=2.4.1",
+    "pillow>=12.1.1",
+    "python-levenshtein>=0.27.3",
     "scikit-learn>=1.8.0",
     "scipy>=1.17.0",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "wordcloud>=1.9.6",
+    "xgboost>=3.2.0",
     "yfinance>=1.2.0",
 ]

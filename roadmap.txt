@@ -44,10 +44,14 @@ https://www.youtube.com/watch?v=qNxrPri1V0I
 
 - your first ML project
 
+- certificate?
+- programming challenges?
+
 -----------------------------------------------------------------------
 1. pandas
     https://www.geeksforgeeks.org/pandas/pandas-tutorial/
     https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
     https://tutswiki.com/pandas-cookbook/chapter1/
+
 
 
