@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "catboost>=1.2.10",
     "dotenv>=0.9.9",
     "fuzzywuzzy>=0.18.0",
     "imageio>=2.37.2",
